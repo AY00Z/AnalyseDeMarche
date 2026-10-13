@@ -53,7 +53,7 @@ npm install
 npm start
 ```
 
-###📌 Notes
+📌 #Notes
 
 Projet réalisé dans le cadre d'un stage en ingénierie logicielle (Data & Web).
 
