@@ -5,14 +5,14 @@ Elle permet de suivre les **KPIs clés**, les **nouveautés** et les tendances d
 
 ---
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
-- 📈 Tableau de bord avec indicateurs clés (KPIs) du marché français
-- 🆕 Section dédiée aux nouveautés et actualités financières
-- 🔍 Visualisation dynamique des données
-- 📱 Interface responsive (desktop & mobile)
-- ⚡ Frontend développé avec React.js
-- 🔌 Backend exposant les données via API
+-  Tableau de bord avec indicateurs clés (KPIs) du marché français
+-  Section dédiée aux nouveautés et actualités financières
+-  Visualisation dynamique des données
+- Interface responsive (desktop & mobile)
+-  Frontend développé avec React.js
+-  Backend exposant les données via API
 
 ---
 
@@ -46,7 +46,7 @@ AnalyseDeMarche/
 - [Node.js](https://nodejs.org/) (v14 ou supérieure)
 - npm (installé avec Node.js)
 
-### 1️⃣ Cloner le repository
+### Cloner le repository
 
 ```bash
 git clone https://github.com/AY00Z/AnalyseDeMarche.git
@@ -58,7 +58,8 @@ cd ../frontend
 npm install
 npm start
 
-📌 Notes
+
+###📌 Notes
 
 Projet réalisé dans le cadre d'un stage en ingénierie logicielle (Data & Web).
 
