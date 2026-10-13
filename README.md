@@ -1,4 +1,4 @@
-# 📊 AnalyseDeMarché
+# AnalyseDeMarché
 
 Plateforme web de visualisation et d'analyse des **données financières du marché français**.  
 Elle permet de suivre les **KPIs clés**, les **nouveautés** et les tendances du marché via une interface moderne et interactive.
@@ -29,17 +29,11 @@ Elle permet de suivre les **KPIs clés**, les **nouveautés** et les tendances d
 
 ---
 
-## 📁 Structure du projet
-AnalyseDeMarche/
-├── backend/ # API / logique serveur
-├── frontend/ # Application React.js
-├── .gitattributes
-└── README.md
 
 
 ---
 
-## 🚀 Installation et exécution
+##  Installation et exécution
 
 ### Prérequis
 
@@ -57,7 +51,7 @@ cd AnalyseDeMarche
 cd ../frontend
 npm install
 npm start
-
+```
 
 ###📌 Notes
 
