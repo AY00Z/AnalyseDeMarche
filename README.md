@@ -27,7 +27,7 @@ Elle permet de suivre les **KPIs clés**, les **nouveautés** et les tendances d
 - API REST
 - Traitement et exposition des données financières
 
----
+
 
 
 
@@ -52,6 +52,8 @@ cd ../frontend
 npm install
 npm start
 ```
+
+---
 
 📌 #Notes
 
